@@ -7,7 +7,7 @@ function toCombined(Prim1, Prim2) {
     } else if (color1==='yellow' && color2==='blue' || color1==='blue' && color2==='yellow') {
         return 'Green'
     } else if (color1===undefined || color2===undefined) {
-        return 'Must enter two primary colors or one secondary color!'
+        return 'Enter two primary colors!'
     }
     return;
 }
