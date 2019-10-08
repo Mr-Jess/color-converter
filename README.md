@@ -14,9 +14,11 @@ Color converter app is a digital color flow-chart that is simple and easy, targe
 * The outcome is: **Yellow and Blue** make up the color **Green**.
 * The following example (1.b) shows two colors input to result in one mixture outcome color.
 
-1.a <a href="https://ibb.co/P1NnW9Y"><img src="https://i.ibb.co/HGVsPx2/Screen-Shot-2019-10-07-at-8-53-25-PM.png" alt="Screen-Shot-2019-10-07-at-8-53-25-PM" border="0"></a>
+1.a
+<a href="https://ibb.co/P1NnW9Y"><img src="https://i.ibb.co/HGVsPx2/Screen-Shot-2019-10-07-at-8-53-25-PM.png" alt="Screen-Shot-2019-10-07-at-8-53-25-PM" border="0"></a>
 
-1.b<a href="https://ibb.co/tcYzZDL"><img src="https://i.ibb.co/FJ8XszH/Screen-Shot-2019-10-07-at-10-03-37-PM.png" alt="Screen-Shot-2019-10-07-at-10-03-37-PM" border="0"></a>
+1.b
+<a href="https://ibb.co/tcYzZDL"><img src="https://i.ibb.co/FJ8XszH/Screen-Shot-2019-10-07-at-10-03-37-PM.png" alt="Screen-Shot-2019-10-07-at-10-03-37-PM" border="0"></a>
 
 ### How to download on your computer
 
